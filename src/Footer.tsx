@@ -3,6 +3,7 @@ function Footer() {
     <>
       <nav>Footer</nav>
       <nav>Footer </nav>
+      <div>Done</div>
     </>
   );
 }
