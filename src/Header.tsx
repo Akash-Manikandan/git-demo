@@ -2,6 +2,7 @@ function Header() {
 
   return (
     <>
+      <nav>Header </nav>
       <nav>Header</nav>
     </>
   )
