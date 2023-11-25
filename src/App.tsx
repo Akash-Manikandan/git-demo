@@ -3,6 +3,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import Header from "./Header";
+import Footer from "./NewFile";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -28,6 +29,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">This is Akash</p>
+      <Footer />
     </>
   );
 }
