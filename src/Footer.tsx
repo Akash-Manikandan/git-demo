@@ -2,6 +2,7 @@ function Footer() {
   return (
     <>
       <nav>Footer</nav>
+      <nav>Footer </nav>
     </>
   );
 }
